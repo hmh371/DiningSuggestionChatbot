@@ -3,7 +3,8 @@ A chatbot for dining suggestion combining with AWS S3/APIGateway/Lambda function
 
 Group members:  
 
-Renyue Zhang
-Olivia Zhao
-Shruti Agarwal
-Hsia-ming Hsu
+Renyue Zhang  
+Olivia Zhao  
+Shruti Agarwal  
+Hsia-ming Hsu  
+
